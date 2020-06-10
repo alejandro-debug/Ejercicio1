@@ -1,0 +1,4 @@
+1. Ejecutar la consola de linux como root
+2. Escribir el comando ./script.sh
+3. Ingresar los datos pedidos
+4. Leer los resultados ejecutando el comando "cat prueba.log"

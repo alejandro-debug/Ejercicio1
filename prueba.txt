@@ -1,0 +1,7 @@
+site_ID="MLA"seller_ID="123"item_ID="321"item_TITLE="AAA"category_ID="111"category_NAME="SI" 
+site_ID="MLA"seller_ID="456"item_ID="654"item_TITLE="BBB"category_ID="222"category_NAME="CI"
+site_ID="MLA"seller_ID="789"item_ID="987"item_TITLE="CCC"category_ID="333"category_NAME="ZI"
+site_ID="MLB"seller_ID="123"item_ID="321"item_TITLE="AAA"category_ID="111"category_NAME="SI"
+site_ID="MLB"seller_ID="456"item_ID="654"item_TITLE="BBB"category_ID="222"category_NAME="CI"
+site_ID="MLB"seller_ID="789"item_ID="987"item_TITLE="CCC"category_ID="333"category_NAME="ZI"
+
